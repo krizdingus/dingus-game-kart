@@ -1,6 +1,6 @@
-# Dingus Kart - 3D Printable Game Boy Cartridge Shell
+# Dingus Game Kart - A 3D Printable Game Boy Cartridge Shell
 
-Welcome to the Dingus Kart project! This repository contains a 3D printable model of a Game Boy cartridge shell and a Photoshop template for creating custom cartridge labels. This project is perfect for retro gaming enthusiasts looking to create custom cartridges for their Game Boy collection!
+Welcome to the Dingus Game Kart project. This repository contains a 3D printable model of a Game Boy cartridge shell and a Photoshop template for creating custom cartridge labels. This project is perfect for retro gaming enthusiasts looking to create custom cartridges for their Game Boy collection.
 
 ## Contents
 
